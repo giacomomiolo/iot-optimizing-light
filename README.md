@@ -1,7 +1,7 @@
 # IoT-light-optimization
 <p align="center">
     <br>
-    <img src= "https://github.com/giumanto/IoT-light-optimization/blob/main/map.png" width="500"/>
+    <img src= "https://github.com/giacomomiolo/iot-optimizing-light/blob/master/map.png" width="500"/>
     <br>
 <p>
     
